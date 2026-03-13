@@ -30,7 +30,7 @@ export default function Header() {
               alt="Krittimat"
               className="h-8 w-8 rounded-lg object-cover"
             />
-            <span className="font-heading font-bold text-xl text-text-main hidden block">Krittimat</span>
+            <span className="font-heading font-bold text-xl text-gray-900 block">Krittimat</span>
           </Link>
 
           {/* Desktop Nav */}
