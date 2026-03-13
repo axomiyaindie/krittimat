@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+
+  <!-- Blue Background -->
+  <rect width="300" height="300" fill="#0B5ED7"/>
+
+  <!-- Assamese Gamosa Pattern Border -->
+  <g fill="#D62828">
+    <!-- top -->
+    <rect x="0" y="0" width="300" height="12"/>
+    <!-- bottom -->
+    <rect x="0" y="288" width="300" height="12"/>
+    <!-- left -->
+    <rect x="0" y="0" width="12" height="300"/>
+    <!-- right -->
+    <rect x="288" y="0" width="12" height="300"/>
+  </g>
+
+  <!-- small traditional motif -->
+  <g fill="#D62828">
+    <circle cx="40" cy="40" r="6"/>
+    <circle cx="260" cy="40" r="6"/>
+    <circle cx="40" cy="260" r="6"/>
+    <circle cx="260" cy="260" r="6"/>
+  </g>
+
+  <!-- Logo Symbol -->
+  <text 
+    x="50%" 
+    y="55%" 
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-size="110"
+    font-weight="700"
+    font-family="Noto Sans Bengali, Arial, sans-serif"
+    fill="white">
+    K√ক
+  </text>
+
+</svg>

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "p1",
+    "category": "chatgpt-prompts",
+    "title": "Expert Explain Anything",
+    "title_as": "যিকোনো বিষয় বিশেষজ্ঞৰ দৰে বুজাওক",
+    "prompt": "Explain [TOPIC] as if you are a world-class expert but talking to a complete beginner. Use simple analogies, avoid jargon, and give 3 practical examples. End with the 3 most important takeaways.",
+    "tags": ["learning","beginner","explanation"],
+    "use_case": "Learning"
+  },
+  {
+    "id": "p2",
+    "category": "chatgpt-prompts",
+    "title": "Summarize Any Text",
+    "title_as": "যিকোনো লেখা সাৰাংশ কৰক",
+    "prompt": "Summarize the following text in exactly 5 bullet points. Each bullet should be one sentence. Focus on the most important information. Text: [PASTE TEXT HERE]",
+    "tags": ["summarize","productivity","reading"],
+    "use_case": "Productivity"
+  },
+  {
+    "id": "p3",
+    "category": "coding-prompts",
+    "title": "Debug My Code",
+    "title_as": "মোৰ কোড ডিবাগ কৰক",
+    "prompt": "I have a bug in my [LANGUAGE] code. Here is the code:\n\n[PASTE CODE]\n\nThe expected behavior is: [WHAT IT SHOULD DO]\nThe actual behavior is: [WHAT IT DOES INSTEAD]\n\nPlease: 1) Find the bug 2) Explain why it's happening 3) Show the fixed code 4) Suggest how to prevent this in future",
+    "tags": ["coding","debug","developer"],
+    "use_case": "Coding"
+  },
+  {
+    "id": "p4",
+    "category": "coding-prompts",
+    "title": "Code Review Expert",
+    "title_as": "কোড পৰ্যালোচনা বিশেষজ্ঞ",
+    "prompt": "Review this [LANGUAGE] code as a senior engineer. Check for: 1) Bugs and errors 2) Security vulnerabilities 3) Performance issues 4) Code readability 5) Best practice violations. Provide specific line-by-line feedback and an improved version.\n\n[PASTE CODE]",
+    "tags": ["coding","review","best-practices"],
+    "use_case": "Coding"
+  },
+  {
+    "id": "p5",
+    "category": "student-prompts",
+    "title": "Study Plan Generator",
+    "title_as": "অধ্যয়নৰ পৰিকল্পনা তৈয়াৰক",
+    "prompt": "Create a detailed 30-day study plan for [SUBJECT/EXAM]. I have [X hours] per day available. Include: daily topics, resources to use, practice questions, revision schedule, and tips for retention. Format as a table.",
+    "tags": ["study","student","planning"],
+    "use_case": "Education"
+  },
+  {
+    "id": "p6",
+    "category": "student-prompts",
+    "title": "Essay Writer Framework",
+    "title_as": "ৰচনা লেখাৰ কাঠামো",
+    "prompt": "Help me write an essay on: [TOPIC]. Word count: [NUMBER]. Format: Introduction (hook + thesis), 3 body paragraphs (claim + evidence + analysis), Conclusion (restate thesis + call to action). Academic level: [HIGH SCHOOL/COLLEGE]. Tone: [FORMAL/SEMI-FORMAL]",
+    "tags": ["essay","writing","student"],
+    "use_case": "Education"
+  },
+  {
+    "id": "p7",
+    "category": "business-prompts",
+    "title": "Business Plan Outline",
+    "title_as": "ব্যৱসায়িক পৰিকল্পনাৰ ৰূপৰেখা",
+    "prompt": "Create a comprehensive business plan outline for: [BUSINESS IDEA]. Target market: [AUDIENCE]. Budget: [AMOUNT]. Include: Executive summary, Market analysis, Product/service description, Revenue model, Marketing strategy, Financial projections, Risk analysis.",
+    "tags": ["business","startup","planning"],
+    "use_case": "Business"
+  },
+  {
+    "id": "p8",
+    "category": "business-prompts",
+    "title": "Cold Email Generator",
+    "title_as": "কোল্ড ইমেইল জেনেৰেটৰ",
+    "prompt": "Write a cold outreach email to [TARGET PERSON/COMPANY] for [PURPOSE]. Keep it under 150 words. Include: Personalized opening, Clear value proposition, Specific pain point you solve, One concrete result/case study, Simple CTA. Tone: Professional but friendly.",
+    "tags": ["email","sales","marketing"],
+    "use_case": "Business"
+  },
+  {
+    "id": "p9",
+    "category": "chatgpt-prompts",
+    "title": "Role Play Expert Consultant",
+    "title_as": "বিশেষজ্ঞ পৰামৰ্শদাতাৰ ভূমিকা পালন",
+    "prompt": "Act as a [EXPERT TYPE: e.g., 'seasoned financial advisor', 'Fortune 500 CMO', 'Silicon Valley CTO']. I will ask you questions and you will answer from that expert's perspective, drawing on your hypothetical 20+ years of experience. First question: [YOUR QUESTION]",
+    "tags": ["roleplay","expert","consulting"],
+    "use_case": "Productivity"
+  },
+  {
+    "id": "p10",
+    "category": "coding-prompts",
+    "title": "Build Full REST API",
+    "title_as": "সম্পূৰ্ণ REST API তৈয়াৰ কৰক",
+    "prompt": "Build a complete REST API for [APP TYPE] using [TECHNOLOGY STACK]. Include: Authentication (JWT), CRUD endpoints for [RESOURCES], Input validation, Error handling, Rate limiting, API documentation. Generate all files with proper folder structure and comments.",
+    "tags": ["coding","api","backend"],
+    "use_case": "Coding"
+  },
+  {
+    "id": "p11",
+    "category": "student-prompts",
+    "title": "Concept Flashcard Creator",
+    "title_as": "ধাৰণা ফ্লেশকাৰ্ড নিৰ্মাতা",
+    "prompt": "Create 20 flashcards for studying [TOPIC]. Format each as: Front: [Clear question or term] Back: [Concise answer, max 2 sentences]. Include: Key definitions, Important formulas, Common examples. Organize by difficulty: Easy (7 cards), Medium (8 cards), Hard (5 cards).",
+    "tags": ["flashcards","study","student"],
+    "use_case": "Education"
+  },
+  {
+    "id": "p12",
+    "category": "business-prompts",
+    "title": "SWOT Analysis Generator",
+    "title_as": "SWOT বিশ্লেষণ জেনেৰেটৰ",
+    "prompt": "Conduct a thorough SWOT analysis for [COMPANY/PRODUCT/IDEA]. Be specific and actionable. For each category provide 5 points with brief explanation. End with 3 strategic recommendations based on the analysis.",
+    "tags": ["business","analysis","strategy"],
+    "use_case": "Business"
+  }
+]

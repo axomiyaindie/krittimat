@@ -1,0 +1,14 @@
+[
+  { "id": "chat-ai", "name": "Chat AI", "name_as": "চেট AI", "icon": "MessageSquare", "color": "#0078D4", "count": 15, "description": "Conversational AI assistants for any task" },
+  { "id": "coding-ai", "name": "Coding AI", "name_as": "কোডিং AI", "icon": "Code2", "color": "#005A9E", "count": 10, "description": "AI tools for developers and programmers" },
+  { "id": "image-ai", "name": "Image AI", "name_as": "ছবি AI", "icon": "Image", "color": "#8764B8", "count": 12, "description": "Generate and edit images with AI" },
+  { "id": "video-ai", "name": "Video AI", "name_as": "ভিডিঅ AI", "icon": "Video", "color": "#D83B01", "count": 9, "description": "Create and edit videos using AI" },
+  { "id": "audio-ai", "name": "Audio AI", "name_as": "অডিঅ AI", "icon": "Music", "color": "#107C10", "count": 8, "description": "Music, voice, and sound generation" },
+  { "id": "writing-ai", "name": "Writing AI", "name_as": "লিখন AI", "icon": "PenTool", "color": "#C239B3", "count": 7, "description": "AI writing and content creation tools" },
+  { "id": "search-ai", "name": "Search AI", "name_as": "সন্ধান AI", "icon": "Search", "color": "#FFB900", "count": 5, "description": "AI-powered search and research tools" },
+  { "id": "design-ai", "name": "Design AI", "name_as": "ডিজাইন AI", "icon": "Layers", "color": "#E81123", "count": 8, "description": "UI/UX and graphic design AI tools" },
+  { "id": "productivity-ai", "name": "Productivity AI", "name_as": "উৎপাদনশীলতা AI", "icon": "Zap", "color": "#00B4D8", "count": 7, "description": "Boost your productivity with AI" },
+  { "id": "research-ai", "name": "Research AI", "name_as": "গৱেষণা AI", "icon": "BookOpen", "color": "#2D7D9A", "count": 6, "description": "AI tools for academic and scientific research" },
+  { "id": "automation-ai", "name": "Automation AI", "name_as": "স্বয়ংক্ৰিয় AI", "icon": "Settings", "color": "#7A7574", "count": 4, "description": "Automate workflows and repetitive tasks" },
+  { "id": "open-source", "name": "Open Source AI", "name_as": "মুক্ত উৎস AI", "icon": "Github", "color": "#24292F", "count": 6, "description": "Free and open-source AI models & tools" }
+]

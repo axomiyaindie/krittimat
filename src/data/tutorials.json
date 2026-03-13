@@ -1,0 +1,68 @@
+[
+  {
+    "id": "build-website-ai",
+    "title": "How to Build a Website with AI",
+    "title_as": "AI ৰে ৱেবছাইট কেনেকৈ তৈয়াৰ কৰিব",
+    "description": "Learn to build a complete website using AI tools like v0, Bolt, and Framer AI — no coding required.",
+    "duration": "45 min",
+    "level": "Beginner",
+    "tools": ["v0", "Bolt.new", "Framer AI"],
+    "steps": 8,
+    "thumbnail": "💻"
+  },
+  {
+    "id": "create-ai-images",
+    "title": "How to Create Stunning AI Images",
+    "title_as": "চমৎকাৰ AI ছবি কেনেকৈ তৈয়াৰ কৰিব",
+    "description": "Master Midjourney and DALL-E 3 with prompting techniques that produce professional quality images.",
+    "duration": "30 min",
+    "level": "Beginner",
+    "tools": ["Midjourney", "DALL-E 3", "Leonardo AI"],
+    "steps": 6,
+    "thumbnail": "🎨"
+  },
+  {
+    "id": "generate-ai-videos",
+    "title": "How to Generate AI Videos",
+    "title_as": "AI ভিডিঅ কেনেকৈ তৈয়াৰ কৰিব",
+    "description": "Create professional videos using Runway, Pika, and Sora with step-by-step instructions.",
+    "duration": "40 min",
+    "level": "Intermediate",
+    "tools": ["Runway", "Pika", "Sora"],
+    "steps": 7,
+    "thumbnail": "🎬"
+  },
+  {
+    "id": "build-apps-ai",
+    "title": "How to Build Apps with AI",
+    "title_as": "AI ৰে এপ কেনেকৈ তৈয়াৰ কৰিব",
+    "description": "From idea to deployed app in hours using Cursor, Lovable, and Bolt.new.",
+    "duration": "60 min",
+    "level": "Intermediate",
+    "tools": ["Cursor", "Lovable", "Bolt.new"],
+    "steps": 10,
+    "thumbnail": "📱"
+  },
+  {
+    "id": "automate-tasks-ai",
+    "title": "How to Automate Tasks with AI",
+    "title_as": "AI ৰে কাম কেনেকৈ স্বয়ংক্ৰিয় কৰিব",
+    "description": "Build powerful automations using Zapier, n8n, and Make to save hours every week.",
+    "duration": "50 min",
+    "level": "Intermediate",
+    "tools": ["Zapier", "n8n", "Make"],
+    "steps": 8,
+    "thumbnail": "⚡"
+  },
+  {
+    "id": "ai-music-creation",
+    "title": "Create Music with AI",
+    "title_as": "AI ৰে সংগীত কেনেকৈ তৈয়াৰ কৰিব",
+    "description": "Generate complete songs, beats and soundtracks using Suno, Udio, and AIVA.",
+    "duration": "25 min",
+    "level": "Beginner",
+    "tools": ["Suno", "Udio", "AIVA"],
+    "steps": 5,
+    "thumbnail": "🎵"
+  }
+]
