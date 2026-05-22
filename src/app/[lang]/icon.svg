@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="modern-tech-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9d4edd" />
+      <stop offset="100%" stop-color="#4ecdc4" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="200" height="200" rx="20" ry="20" fill="transparent" stroke="#F5F5F5" stroke-width="1"/>
+  
+  <g transform="translate(10, 10)" fill="url(#modern-tech-grad)">
+    <path d="M 60 40 L 60 160 L 95 160 L 95 110 L 120 160 L 160 160 L 130 100 L 160 40 L 120 40 L 100 80 C 95 90, 85 90, 80 80 L 80 40 Z" />
+    
+    <circle cx="95" cy="110" r="12" fill="white" stroke="url(#modern-tech-grad)" stroke-width="3"/>
+  </g>
+</svg>
