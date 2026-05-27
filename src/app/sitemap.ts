@@ -4,6 +4,7 @@ import tools from '@/data/tools.json'
 import prompts from '@/data/prompts.json'
 import tutorials from '@/data/tutorials.json'
 import { learnTopics } from '@/data/learnTopics'
+import { getBaseUrl } from '@/lib/constants'  // 👈 Import from constants
 
 // Define explicit localized item structures for type safety
 interface BaseItem {
@@ -15,7 +16,7 @@ interface TopicItem {
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = 'https://krittimat.netlify.app';
+  const baseUrl = getBaseUrl();  // 👈 Use imported function
   const locales = ['en', 'as'];
   const today = new Date().toISOString().split('T')[0];
 

@@ -2,11 +2,14 @@
 .next/
 out/
 build/
+.turbo/
+.eslintcache
 
 # Dependency directories
 node_modules/
 jspm_packages/
 web_modules/
+.pnpm-store/
 
 # Debug and log files
 npm-debug.log*
@@ -19,6 +22,7 @@ lerna-debug.log*
 # Local environment variables (DO NOT COMMIT SENSITIVE KEYS)
 .env
 .env.local
+.env.production
 .env.development.local
 .env.test.local
 .env.production.local
