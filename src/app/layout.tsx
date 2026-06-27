@@ -1,6 +1,12 @@
 // src/app/layout.jsx
 import "@/styles/global.css";
 
+export const metadata = {
+  verification: {
+    google: "A8wskx8nC830MPRqphjcUgeBznTKVkFUWtD_EwGqEo8",
+  },
+};
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
